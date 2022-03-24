@@ -1,0 +1,15 @@
+c4:
+https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/
+https://docs.opencv.org/3.2.0/de/d25/imgproc_color_conversions.html
+
+hsv2rgb: https://www.codespeedy.com/hsv-to-rgb-in-cpp/
+https://gist.github.com/yoggy/8999625
+c5:
+c6:
+https://github.com/opencv/opencv/blob/master/modules/core/include/opencv2/core/saturate.hpp
+C7:
+https://www.youtube.com/watch?v=oMYwmDbGUG8&ab_channel=ComputerVisionAcademy
+C8:
+https://answers.opencv.org/question/54672/count-number-of-peaks-in-histogram/
+https://gregorkovalcik.github.io/opencv_contrib/tutorial_histogram_calculation.html
+

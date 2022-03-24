@@ -1,0 +1,5 @@
+Billinear:
+https://en.wikipedia.org/wiki/Bilinear_interpolation
+https://helloacm.com/cc-function-to-compute-the-bilinear-interpolation/
+https://charlottehong.blogspot.com/2017/11/bilinear.html
+https://gist.github.com/TanThinNguyen/a61f906bf8bc6b1d715fd734f751cfc5
